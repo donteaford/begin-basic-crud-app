@@ -7,6 +7,7 @@ dimsum-e6r
 get /todos
 post /todos
 post /todos/delete
+get /
 
 @tables
 data
